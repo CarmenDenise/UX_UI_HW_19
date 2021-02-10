@@ -27,6 +27,11 @@ p {
     justify-content:center;
 }
 
+.projectTwo {
+    display:flex;
+    justify-content:center;
+}
+
 .projectThree {
     display:flex;
     justify-content:center;
@@ -81,10 +86,11 @@ header {
     background-color: #fff;
     color: #000;
     text-align: center;
-    border-color: #000;
+    border-color: rgb(105, 105, 105);
     padding: 10px 20px;
     display:flex;
     justify-content: center;
+   
 }
 
 h4 {
