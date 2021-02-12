@@ -63,6 +63,7 @@ a {
 h4 {
     font-weight:normal;
     text-align:center;
+    padding-top:100px;
 }
 
 .viewProjects {
@@ -161,13 +162,14 @@ h4 {
 footer {
     display:flex;
     justify-content:space-between;
+    align-items:center;
     width:90%;
     margin:5%;
 }
 
 
 
-/* ________________________________buttons */
+/* ______________________________________buttons */
 
 
 .button2 {
@@ -183,7 +185,7 @@ footer {
 
 .buttonResume{
     display:inline-block;
-    justify-content:center;
+    justify-content: center;
     background-color: #D84A42;
     color: #fff;
     text-align:center;
@@ -198,11 +200,11 @@ footer {
 hr.solid {
     display:flex;
     justify-content:center;
-    border-top: .5px solid #d2d2d2;
+    border: .5px solid #d2d2d2;
     width:90%;
-    margin:5%;
   }
-/* ____________________________not using
+  
+/* ________________________________________not using
 .flexContainer {
     display:flex;
     justify-content: space-around;
