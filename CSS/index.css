@@ -64,6 +64,7 @@ h4 {
     font-weight:normal;
     text-align:center;
     padding-top:100px;
+    letter-spacing: 2px;
 }
 
 .viewProjects {
@@ -97,7 +98,7 @@ h4 {
 
 .workGrid {
     display:inline-block;
-    padding-bottom:50px;
+    padding-bottom:30px;
     background-color: #f2f2f2;
     width:88%;
     margin:5%;
@@ -106,7 +107,7 @@ h4 {
 
 .workGrid2 {
     display: block;
-    padding-bottom:50px;
+    padding-bottom:30px;
     background-color: #f2f2f2;
     width:88%;
     margin:5%;
@@ -115,7 +116,7 @@ h4 {
 
 .workGrid3 {
     display: block;
-    padding-bottom:50px;
+    padding-bottom:30px;
     background-color: #f2f2f2;
     width:88%;
     margin:5%;
@@ -124,7 +125,7 @@ h4 {
 
 .workGrid4 {
     display: block;
-    padding-bottom:50px;
+    padding-bottom:30px;
     background-color: #f2f2f2;
     width:88%;
     margin:5%;
