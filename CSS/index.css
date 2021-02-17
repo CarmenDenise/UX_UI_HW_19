@@ -168,7 +168,10 @@ footer {
     margin:5%;
 }
 
-
+/* _____________________________________body/resume image */
+.content2 {
+    padding-bottom: 10px;
+}
 
 /* ______________________________________buttons */
 
@@ -192,6 +195,13 @@ footer {
     text-align:center;
     padding: 10px 20px;
     border-width:0;
+    margin: 0 auto;
+}
+
+.buttonDiv {
+    text-align: center;
+    justify-content:center;
+    padding-bottom: 50px;
 }
 
 
